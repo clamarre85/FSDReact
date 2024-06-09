@@ -1,0 +1,3 @@
+Hello from Char
+Welcome to CBC!
+We are learning MERN
