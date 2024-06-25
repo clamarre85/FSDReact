@@ -4,3 +4,7 @@
 06/21/2024 13:16:21	ee9f48e8-2f31-466b-88c6-299f3cc2dfdb	URIError 	 Failed to decode param '/%PUBLIC_URL%/favicon.ico'
 06/21/2024 13:20:56	65bf2404-ff78-46d6-8efa-765676f6ec19	URIError 	 Failed to decode param '/%PUBLIC_URL%/manifest.json'
 06/21/2024 13:20:56	cb203ec8-2906-4f27-b067-a7e9559cf486	URIError 	 Failed to decode param '/%PUBLIC_URL%/favicon.ico'
+06/21/2024 13:51:30	a4f39cf0-ff85-48b9-8ede-e99e45106412	URIError 	 Failed to decode param '/%PUBLIC_URL%/favicon.ico'
+06/21/2024 13:51:30	7eb2a027-841b-4792-897f-4240f29d474a	URIError 	 Failed to decode param '/%PUBLIC_URL%/manifest.json'
+06/25/2024 12:02:09	f67442af-da00-4774-90ac-738add80a140	Error 	 ENOENT: no such file or directory, stat 'C:\Code Projects\FSDReact\jobzila\views\index.html'
+06/25/2024 12:05:14	e23ad023-4271-4c3c-b675-272152028796	Error 	 ENOENT: no such file or directory, stat 'C:\Code Projects\FSDReact\jobzila\views\index.html'

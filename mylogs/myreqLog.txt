@@ -7,3 +7,8 @@
 06/21/2024 13:20:56	a52dd682-c94d-4f66-bbfc-ff252bc9c9a4	GET	undefined	/
 06/21/2024 13:20:56	df288b24-6c4c-4e14-a894-89aa3575efda	GET	undefined	/%PUBLIC_URL%/manifest.json
 06/21/2024 13:20:56	771a9d0d-5e2e-4aee-abe9-8200f6f60c19	GET	undefined	/%PUBLIC_URL%/favicon.ico
+06/21/2024 13:51:30	4f467039-e0d5-4b6e-9620-5fe0ab62669e	GET	undefined	/
+06/21/2024 13:51:30	ee6ddf70-91cc-45cc-9924-5315ae730a23	GET	undefined	/%PUBLIC_URL%/favicon.ico
+06/21/2024 13:51:30	e407cf0c-f0ba-4bdd-8d76-3c07644bf76a	GET	undefined	/%PUBLIC_URL%/manifest.json
+06/25/2024 12:02:09	5837c411-28dd-45c2-810e-0b87393995ba	GET	undefined	/
+06/25/2024 12:05:14	d1b770e3-ec25-4606-9d65-6de4dcc0ecd6	GET	undefined	/
